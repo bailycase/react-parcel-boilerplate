@@ -1,6 +1,6 @@
 # React Parcel Boilerplate
 
----
+
 
 This is a repo containing very basic boilerplate code for ReactJS projects using the Parcel Bundler.
 
@@ -8,7 +8,7 @@ This is a repo containing very basic boilerplate code for ReactJS projects using
 
 ## Use Guide
 
----
+
 
 To use the boilerplate code:
 
